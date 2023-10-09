@@ -1,4 +1,4 @@
-# authWarden
+## authWarden
 > Secure and manage your TOTPs seamlessly
 
 ---
