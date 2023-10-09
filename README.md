@@ -1,8 +1,6 @@
 ## authWarden
 > Secure and manage your TOTPs seamlessly
 
----
-
 `authWarden` is a powerful command-line utility designed to manage and generate Time-based One-Time Passwords (TOTPs) for various services. With strong cryptographic foundations leveraging the OpenSSL library, along with the OATH library for OTP generation, it's a robust choice for your authentication needs.
 
 ---
